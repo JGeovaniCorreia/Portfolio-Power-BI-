@@ -1,9 +1,10 @@
-# Dashboard de Vendas e-Comerce
+<h1 align="center">Dashboard de Vendas e-Comerce </h1>
 
-Desenvolvido através de uma base de dados pública adquirida no Kaggle.
+<h3 align="center">Desenvolvido utilizando como base de dados um "dataset" público adquirido no Kaggle.</h3>
 
 Link publico do Dashboard 
 https://cutt.ly/320HIyZ (Clique em "Iniciar Análise" quando abrir a página) 
+
 
 ![Screenshot_1](https://user-images.githubusercontent.com/123345403/215247934-fe81b8f1-b329-4d42-896b-c2300434c551.png)
 
@@ -39,6 +40,7 @@ Podemos através dessas perguntas e suas respostas entender que:
 - "Vendas por Hora de Compra" nos indica as horas do dia em que os clientes costumam comprar: Campanhas de anuncio e marketing podem obter mais sucesso, bem como ajuste nas equipes de atendimento podem ser feitos de acordo com essa tendencia de procura. 
 
 
-
-
    Concluindo, essa base de dados tem uma serie de lacunas, as quais impossibilitou análises mais detalhadas. 
+   
+   
+   Base de dados: https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store?resource=download
