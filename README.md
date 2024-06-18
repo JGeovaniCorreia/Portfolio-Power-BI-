@@ -3,6 +3,7 @@ Aqui estão todos os **Dashboards em Power BI**, basta clicar em um dos arquivos
 
 
 ***OBS: Caso tenha algum problema para visualizar os relatórios, acesse meu Linkedin, nos destaques é possível ve-los também 😁**
+www.linkedin.com/in/geovanicorreia
 
 Links relatórios: 
 --------------------------------------------------------------------------------------
