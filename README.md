@@ -1,5 +1,7 @@
 # Portfólio de Dashboards em Power BI 
-Aqui estão todos os **Dashboards em Power BI**, basta clicar em um dos arquivos acima (em desenvolvimento) ou logo abaixo nos links. Cada arquivo contém uma imagem, link público para acessar e fazer análises e algumas delas já feitas por mim e descritas de forma textual 😎. 
+Aqui estão todos os **Dashboards em Power BI**, basta clicar em um dos arquivos acima (em desenvolvimento). Cada arquivo contém uma imagem, link público para acessar e fazer análises e algumas delas já feitas por mim e descritas de forma textual 😎. 
+
+ ou logo abaixo nos links pode acessa-los de maneira rápida:
 
 
 ***OBS: Caso tenha algum problema para visualizar os relatórios, acesse meu Linkedin, nos destaques é possível ve-los também 😁**
